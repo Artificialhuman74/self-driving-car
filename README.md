@@ -8,7 +8,12 @@ A self-driving F1 car that learns to drive around a track using neuroevolution. 
 
 ## A note on how this was built
 
-All the code, design and thinking in this project is my own. I used AI only as a guide to help me understand concepts and work through the project. None of the code was AI-generated.
+*All the code, design and thinking in this project is my own*. I used AI only as a guide to help me understand concepts and work through the project. None of the code was AI-generated. I could have used an LLM and could have built it better. If you see my code, I am sure there are a lot of places where you'd think that 'this part could be done better' but for a fully *hand-coded* (in this age, its sad that it needs to be mentioned) weekend project done over a weekend in a duration of 2 days, its not that bad. Well even though I am sure that there are a lot of projects that do the same thing even better, The main aim of this project was for me to learn how stuff like this was built. 
+
+## some stats: 
+ 1) the max fitness ive achieved: 1202.5
+ 2) training iterations (over 1000) 
+
 
 ## Run it yourself
 
